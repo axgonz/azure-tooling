@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "ms-vscode-remote.remote-wsl",
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
+        "humao.rest-client",
+        "rust-lang.rust-analyzer",
+        "shardulm94.trailing-spaces",
+        "ms-vscode.PowerShell",
+        "ms-azuretools.vscode-bicep",
+        "GitHub.vscode-github-actions",
+        "ms-vscode.vscode-node-azure-pack",
+        "ms-azuretools.vscode-azureresourcegroups",
+        "ms-vscode.azure-account"
+    ]
+}

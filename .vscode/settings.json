@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "**/.devops/pipelines/*.yml": "azure-pipelines",
+        "**/.github/workflows/*.yml": "yaml"
+    },
+    "cSpell.words": [
+        "australiaeast",
+        "axgonz",
+        "creds",
+        "datetime",
+        "funcignore",
+        "FUNCTIONAPP",
+        "KEYVAULT",
+        "libcrypto",
+        "Mgmt",
+        "popd",
+        "pushd",
+        "reqwest",
+        "RESOURCEGROUP"
+    ],
+    "trailing-spaces.trimOnSave": true,
+    "trailing-spaces.highlightCurrentLine": true
+}
