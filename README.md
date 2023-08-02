@@ -45,9 +45,10 @@ Comman commands:
 
 https://www.powershellgallery.com/packages/posh-git/1.1.0
 
-Adds information to the Powershell CLI promt when working in a Git directory. After installing use your Powershell profile to import it.
+Adds information to the Powershell CLI prompt when working in a Git directory. After installing use your Powershell profile to import it.
 
 Run as Administrator
+
 ``` powershell
 # Install posh-git 
 Set-ExecutionPolicy RemoteSigned;
@@ -55,6 +56,7 @@ Install-Module -Name posh-git
 ```
 
 Run as normal user
+
 ``` powershell
 # Open your Powershell profile using notepad
 notepad $profile
@@ -70,7 +72,9 @@ https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 Great to work with Bicep files and to query state from Azure. It is worth investing time to become familiar with the Azure CLI as well as bash espacially if using GitHub Actions or DevOps pipelines. 
 
 Install bicep using azure CLI
+
 ``` bash
+# Install bicep
 az bicep upgrade
 ```
 
@@ -81,6 +85,7 @@ https://learn.microsoft.com/en-us/windows/wsl/install
 If you are using a windows machine WSL v2 is the cleanest way to get a bash shell. 
 
 Run as Administrator
+
 ``` powershell
 # Install WSL v2
 wsl --install
