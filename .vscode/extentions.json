@@ -1,5 +1,6 @@
 {
     "recommendations": [
+        "bierner.markdown-preview-github-styles",
         "ms-vscode-remote.remote-wsl",
         "eamodio.gitlens",
         "streetsidesoftware.code-spell-checker",
